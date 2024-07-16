@@ -31,7 +31,13 @@ Backend Implementation (Java, Spring Boot)
 
 - Set up the application.properties file (database configuration)
 
+```
+Database Name: bookstore
+```
+
 - Create Entity Models
+
+- Create DTOs
 
 - Create Repositories
 
